@@ -1,3 +1,4 @@
+// find duplicate
 #include<iostream>
 using namespace std;
 

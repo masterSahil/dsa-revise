@@ -1,3 +1,4 @@
+// sum and average
 #include<iostream>
 using namespace std;
 
