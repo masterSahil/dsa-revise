@@ -15,5 +15,4 @@ int main() {
         b = next;
     }
 
-    return 0;
 }
