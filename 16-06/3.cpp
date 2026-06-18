@@ -13,5 +13,4 @@ int main() {
 
     cout << reversed;
 
-    return 0;
 }
