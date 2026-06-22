@@ -14,5 +14,4 @@ int main() {
         a = b;
         b = next;
     }
-
 }
